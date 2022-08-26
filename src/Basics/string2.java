@@ -15,6 +15,7 @@ public class string2 {
 		System.out.println("vinitha" );
 		System.out.println("Bhuvana" );
 		System.out.println("Jothika" );
+		System.out.println("niviya" );
 		
 	}
 
