@@ -12,6 +12,7 @@ public class string2 {
 		s.append("number");
 		System.out.println(s );
 		System.out.println("reeta" );
+		System.out.println("vinitha" );
 		
 		
 	}
